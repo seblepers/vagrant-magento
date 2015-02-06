@@ -5,6 +5,10 @@
 1
 *.swp
 
+/.buildpath
+/.project
+/.settings/
+
 # Ignore htdocs
 /htdocs/*
 !/htdocs/.placeholder
